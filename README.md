@@ -1,6 +1,6 @@
 # Dev Shakya
 
-**Full-Stack Developer · Laravel · Next.js · TypeScript · Linux**
+**Full-Stack Developer · TypeScript · Laravel · Next.js · Bun · Linux**
 
 I build production web applications, SaaS systems, e-commerce platforms, and developer tooling — working across the **frontend, backend, database, and infrastructure**.
 
@@ -20,6 +20,15 @@ I care about practical engineering: clean architecture, server-side rendering, p
 ---
 
 ## Featured Work
+
+### ForgeTS
+**Batteries-included, TypeScript-first web framework for Bun**
+
+A framework I’m building around a Laravel-inspired developer experience for modern TypeScript applications. It combines a Bun-native HTTP engine, radix-trie routing, Active Record ORM, React 19 SSR, dependency injection, events, security middleware, error infrastructure, and a `forge` CLI.
+
+**Focus:** TypeScript · Bun · React 19 · SSR · ORM · Routing · DI · Security · CLI
+
+→ [View ForgeTS](https://github.com/sdev4522/ForgeTS)
 
 ### 🧰 LocalForge
 **Native Linux development stack manager**
