@@ -11,7 +11,7 @@ Currently building **ForgeTS**, a TypeScript web framework for Bun.
 ### [ForgeTS](https://github.com/sdev4522/ForgeTS)
 A TypeScript-first web framework for Bun with routing, an Active Record ORM, dependency injection, React SSR, security middleware, and a CLI.
 
-**Stack:** TypeScript, Bun, React, Kysely
+**Stack:** TypeScript, Node JS, React, Kysely
 
 ### [LocalForge](https://github.com/sdev4522/LocalForge)
 A native Linux development-stack manager for Nginx, PHP-FPM, MariaDB, local domains, HTTPS, and logs — without Docker.
