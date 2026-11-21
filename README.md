@@ -4,12 +4,12 @@
 
 I build web applications and developer tools, with a focus on backend architecture, server-rendered experiences, and the infrastructure that runs them.
 
-Currently building **ForgeTS**, a TypeScript web framework for Bun.
+Currently building **ForgeTS**, a TypeScript web framework for Node JS.
 
 ## Selected projects
 
 ### [ForgeTS](https://github.com/sdev4522/ForgeTS)
-A TypeScript-first web framework for Bun with routing, an Active Record ORM, dependency injection, React SSR, security middleware, and a CLI.
+A TypeScript-first web framework for Node JS with routing, an Active Record ORM, dependency injection, React SSR, security middleware, and a CLI.
 
 **Stack:** TypeScript, Node JS, React, Kysely
 
